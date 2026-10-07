@@ -1,0 +1,9 @@
+{
+  "name": "dominio-geradores",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monta as planilhas .xlsx a partir dos .tsv extraidos do Dominio",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

@@ -1,0 +1,2 @@
+SET OPTION PUBLIC.database_authentication='Company=Thomson Reuters Brasil Conteudo e Tecnologia LTDA;Application=Domínio Contábil;Signature=010fa55157edb8e14d818eb4fe3db41447146f1571g3747e72e130a0100c71e01e12a180a6d62e590bb';
+go
